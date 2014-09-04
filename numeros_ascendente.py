@@ -1,5 +1,5 @@
 lista=[]
-for i in range(20):
+for i in range(10):
 	n=input()
 	lista1=[n]
 	lista=lista+lista1
